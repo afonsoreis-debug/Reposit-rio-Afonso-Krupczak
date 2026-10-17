@@ -19,6 +19,7 @@
   "homepage": "https://github.com/afonsoreis-debug/Reposit-rio-Afonso-Krupczak#readme",
   "devDependencies": {
     "@types/node": "^26.6.5",
+    "cypress-plugin-api": "^2.12.3",
     "typescript": "^7.0.2"
   },
   "dependencies": {
