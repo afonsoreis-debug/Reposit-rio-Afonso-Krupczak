@@ -1,0 +1,27 @@
+{
+  "name": "reposit-rio-afonso-krupczak",
+  "version": "1.0.0",
+  "description": "Repositório de .cy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afonsoreis-debug/Reposit-rio-Afonso-Krupczak.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afonsoreis-debug/Reposit-rio-Afonso-Krupczak/issues"
+  },
+  "homepage": "https://github.com/afonsoreis-debug/Reposit-rio-Afonso-Krupczak#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "cypress": "^16.2.0"
+  }
+}
